@@ -5,7 +5,7 @@
 Designed and implemented a Security Operations Center (SOC) architecture for a regional medical center to improve cybersecurity monitoring and incident response.
 
 ## Prototype
-<img width="900" height="675" alt="image" src="https://github.com/user-attachments/assets/07ade774-0738-4392-b0d9-0328f489660b" />
+<img width="900" height="675" alt="image" src="/documentation/prototype.jpg" />
 
 ## Technologies
 
