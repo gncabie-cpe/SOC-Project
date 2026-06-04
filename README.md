@@ -33,40 +33,40 @@ Designed and implemented a Security Operations Center (SOC) architecture for a r
 - Unauthorized access monitoring
 
 ## Software Design
-<img width="906" height="635" alt="image" src="https://github.com/user-attachments/assets/74e64714-b194-4a2a-99ce-fea5cf44f16b" />
+<img width="906" height="635" alt="image" src="/documentation/software design.png" />
 
 ## Architecture
 ### Three-Server SOC Architercture
 #### Topology
-<img width="975" height="697" alt="image" src="https://github.com/user-attachments/assets/2e9bf38b-f6c6-4115-befa-c6dc4e78e0ae" />
+<img width="975" height="697" alt="image" src="/documentation/three-server topology.drawio.svg" />
 
 #### Hardware Design
-<img width="568" height="263" alt="image" src="https://github.com/user-attachments/assets/3a4c16be-a627-4905-87c4-326edc473e1c" />
+<img width="568" height="263" alt="image" src="/documentation/three-server hardware.png" />
 
 ### Two-Server SOC Architecture
 #### Topology
-<img width="975" height="743" alt="image" src="https://github.com/user-attachments/assets/1669854b-58cb-459f-8706-af67329b580c" />
+<img width="975" height="743" alt="image" src="/documentation/two-Server.drawio topology.svg" />
 
 #### Hardware Design
-<img width="900" height="530" alt="image" src="https://github.com/user-attachments/assets/4462fadf-f3c4-46ea-8881-5526a31badd9" />
+<img width="900" height="530" alt="image" src="/documentation/two-server hardware.png" />
 
 
 ## Screenshots
 ### Wazuh Dashboard
-<img width="879" height="418" alt="image" src="https://github.com/user-attachments/assets/2c15e7a7-a7f8-423b-bc5b-ee664afe45e8" />
+<img width="879" height="418" alt="image" src="/screenshots/wazuh dashboard.png" />
 
 ## TheHive Interface
-<img width="975" height="464" alt="image" src="https://github.com/user-attachments/assets/222a3b0d-57ce-439c-9083-57ed64efeb16" />
+<img width="975" height="464" alt="image" src="/screenshots/thehive interface.png" />
 
 ## Cortex Interface
-<img width="975" height="464" alt="image" src="https://github.com/user-attachments/assets/6f7e0018-c004-474e-8c80-9839ba69dcfa" />
+<img width="975" height="464" alt="image" src="/screenshots/cortex dashboard.png" />
 
 ## Shuffle Interface
-<img width="900" height="428" alt="image" src="https://github.com/user-attachments/assets/3d089465-be45-4f66-b119-723ddc5b4ec0" />
+<img width="900" height="428" alt="image" src="/screenshots/shuffle dashboard.png" />
 
 ## Frigate Dashboard
-<img width="900" height="410" alt="image" src="https://github.com/user-attachments/assets/09da5d0c-9be1-439d-aab4-2e9c8cba377d" />
+<img width="900" height="410" alt="image" src="/screenshots/frigate dashboard.png" />
 
-## Sample Workflow
-<img width="900" height="498" alt="image" src="https://github.com/user-attachments/assets/7401e841-cc29-4fcf-a225-1cfde93d1bb4" />
-
+## Sample Workflows
+<img width="900" height="498" alt="image" src="/screenshots/sample workflow 1.png" />
+<img width="900" height="498" alt="image" src="/screenshots/sample workflow 2.png" />
